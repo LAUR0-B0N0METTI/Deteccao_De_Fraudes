@@ -129,12 +129,4 @@ Ao final, gera-se um **ensemble** que decide “fraude” com base na média das
 
 ---
 
-## 📈 Próximos Passos  
-- Criar dashboard em Streamlit para enviar transação em tempo real.  
-- Adicionar testes unitários (pré-processamento, formatos de entrada) e integração contínua.  
-- Configurar monitoramento de drift de dados em produção.  
-- Incorporar feedback humano (fraudes confirmadas) para re-treinos periódicos.  
-
----
-
 > **Contato**: Lauro Bonometti • lauro.f.bonometti@gmail.com • [linkedin.com/in/laurobonometti](https://www.linkedin.com/in/laurobonometti)
